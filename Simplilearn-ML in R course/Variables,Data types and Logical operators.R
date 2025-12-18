@@ -1,7 +1,0 @@
-library(datasets)
-head(iris)
-summary(iris)
-plot(iris)
-detach("package:datasets",unload=T)
-dev.off()
-cat("\014")
