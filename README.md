@@ -1,6 +1,6 @@
 # 20-days-ML-in-R
 
-This repository contains **notes**, **exercises**, and **code** created while completing the *Introduction to Machine Learning with R* learning track from Simplilearn SkillUp.[web:1][web:2] The work is organized as a focused **20‑day journey** to build strong fundamentals in machine learning using **R**.[web:1][web:2]
+This repository contains **notes**, **exercises**, and **code** created while completing the *Introduction to Machine Learning with R* learning track from Simplilearn SkillUp . The work is organized as a focused **20‑day journey** to build strong fundamentals in machine learning using **R**.
 
 ---
 
@@ -10,13 +10,12 @@ This repository contains **notes**, **exercises**, and **code** created while co
 - `.gitignore` – Rules to exclude **temporary**, **cache**, and **large output** files (such as `.Rhistory`, `.Rproj.user`, and generated data) from version control.  
 - `README.md` – Overview of the project, **setup instructions**, and **learning roadmap**.  
 
-Inside `ML in R Certification Course/`, you can create subfolders like `Day01/`, `Day02/`, …, `Day20/` to track progress and keep each day’s work organized.
 
 ---
 
 ## Course overview
 
-The *Introduction to Machine Learning with R* course is a **free**, beginner‑friendly program of around **10 hours** of self‑paced content.[web:1][web:2] It introduces **R programming from scratch** and then moves into essential **machine learning algorithms** and their applications.[web:1][web:2]
+The *Introduction to Machine Learning with R* course is a **free**, beginner‑friendly program of around **10 hours** of self‑paced content. It introduces **R programming from scratch** and then moves into essential **machine learning algorithms** and their applications.
 
 **Main themes of the course:**
 
