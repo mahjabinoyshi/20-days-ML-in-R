@@ -1,0 +1,25 @@
+model1<-"Hello"
+typeof(model1)
+class(model1)
+model1
+hello_string<-"hello"
+hello_string
+helloString<-"real hello"
+helloString
+.pairs<-100
+.pairs
+animal<-"Tiger"
+animal
+x<-100
+typeof(x)
+y<-100L
+typeof(y)
+a=T
+typeof(a)
+100+100
+100-50
+100*2
+100/2
+100%%2
+34+46/2
+(34+46)/2
